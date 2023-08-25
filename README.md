@@ -1,0 +1,2 @@
+# equality-workshop
+Obect Equality
